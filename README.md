@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harish Kumara K</h1>
+<h1 align="center">Hi 👋, I'm Harish Kumar K</h1>
 - 🌱 I’m currently learning **c language**
 
 - 📫 How to reach me **k.harish2k8@gmail.com**
