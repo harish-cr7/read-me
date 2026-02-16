@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [http://www.skillrack.com/profile/538229/1f4c1a30cadd62a717a14bf6c67833722efed568](http://www.skillrack.com/profile/538229/1f4c1a30cadd62a717a14bf6c67833722efed568)
 
-- ⚡ Fun fact **i am currently studying artificial intelligence and data science 1st year**
+- ⚡ Fun fact **I am currently studying Artificial Intelligence and Data Science 1st year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
